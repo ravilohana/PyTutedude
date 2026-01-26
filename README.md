@@ -8,8 +8,8 @@
     For entered values the mathematical operation will happen and gives out for serval operation 
     like add, sub, mul and div.
 
-    Github Link:
-    [Task 1 - Perform Basic Mathematical Operations](https://github.com/ravilohana/PyTutedude/blob/master/mod_basic_python_concepts/task_1_mathematical_operations.py)
+GitHub Link:
+    [Task 1 - Perform Basic Mathematical Operations](./mod_basic_python_concepts/task_1_mathematical_operations.py)
     
 ###### Task 2: Create a Personalized Greeting
 
@@ -17,8 +17,8 @@
     full name.
 
 
-    Github Link: 
-    [ask 2 - Create a Personalized Greeting](https://github.com/ravilohana/PyTutedude/blob/master/mod_basic_python_concepts/task_2_personalized_greeting.py)
+GitHub Link: 
+[Task 2 - Create a Personalized Greeting](./mod_basic_python_concepts/task_2_personalized_greeting.py)
 
 
 
