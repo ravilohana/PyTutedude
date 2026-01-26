@@ -1,5 +1,0 @@
-.DS_Store/
-# IDE specific files
-.idea/
-# Ignore the .gitignore file itself if needed, though this is uncommon and generally not recommended
-# .gitignore
