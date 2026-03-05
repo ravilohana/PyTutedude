@@ -53,7 +53,7 @@ GitHub Link:
 ###### Task 2: Write and Append Data to a File
 
 GitHub Link: 
-[Task 2 - Using the Math Module for Calculations](./assignment_4_mod_files_exceptions_errors/task_2_write_append_data_file.py)
+[Task 2: Write and Append Data to a File](./assignment_4_mod_files_exceptions_errors/task_2_write_append_data_file.py)
 
 
 
