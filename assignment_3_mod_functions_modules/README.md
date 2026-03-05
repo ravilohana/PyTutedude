@@ -10,7 +10,7 @@
         2. If user enter 1 so its factorial is 1 as 1!=1
 
 GitHub Link:
-    [Task 1 - Calculate Factorial Using a Function](./mod_functions_modules/task_1_factorial.py)
+    [Task 1 - Calculate Factorial Using a Function](./assignment_3_mod_functions_modules/task_1_factorial.py)
 
 
     
@@ -23,6 +23,6 @@ GitHub Link:
 
 
 GitHub Link: 
-[Task 2 - Using the Math Module for Calculations](./mod_functions_modules/task_2_math_calculations.py)
+[Task 2 - Using the Math Module for Calculations](./assignment_3_mod_functions_modules/task_2_math_calculations.py)
 
 

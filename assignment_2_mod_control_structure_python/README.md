@@ -8,7 +8,7 @@
     and show to the user where a number is odd or even
 
 GitHub Link:
-    [Task 1: Check if a Number is Even or Odd](./mod_control_structure_python/task_1_even_odd_numbers.py)
+    [Task 1: Check if a Number is Even or Odd](./assignment_2_mod_control_structure_python/task_1_even_odd_numbers.py)
     
 ###### Task 2: Sum of Integers from 1 to 50 Using a Loop
 
@@ -16,7 +16,7 @@ GitHub Link:
 
 
 GitHub Link: 
-[Task 2: Sum of Integers from 1 to 50 Using a Loop](./mod_control_structure_python/task_2_sum_integers.py)
+[Task 2: Sum of Integers from 1 to 50 Using a Loop](./assignment_2_mod_control_structure_python/task_2_sum_integers.py)
 
 
 

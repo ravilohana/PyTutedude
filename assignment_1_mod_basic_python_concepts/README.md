@@ -9,7 +9,7 @@
     like add, sub, mul and div.
 
 GitHub Link:
-    [Task 1 - Perform Basic Mathematical Operations](./mod_basic_python_concepts/task_1_mathematical_operations.py)
+    [Task 1 - Perform Basic Mathematical Operations](./assignment_1_mod_basic_python_concepts/task_1_mathematical_operations.py)
     
 ###### Task 2: Create a Personalized Greeting
 
@@ -18,4 +18,4 @@ GitHub Link:
 
 
 GitHub Link: 
-[Task 2 - Create a Personalized Greeting](./mod_basic_python_concepts/task_2_personalized_greeting.py)
+[Task 2 - Create a Personalized Greeting](./assignment_1_mod_basic_python_concepts/task_2_personalized_greeting.py)
